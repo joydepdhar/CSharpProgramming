@@ -1,0 +1,14 @@
+H:\C#Workshop 10days\IntroTOC#\ArraysC#\bin\Debug\net6.0\ArraysC#.exe
+H:\C#Workshop 10days\IntroTOC#\ArraysC#\bin\Debug\net6.0\ArraysC#.deps.json
+H:\C#Workshop 10days\IntroTOC#\ArraysC#\bin\Debug\net6.0\ArraysC#.runtimeconfig.json
+H:\C#Workshop 10days\IntroTOC#\ArraysC#\bin\Debug\net6.0\ArraysC#.dll
+H:\C#Workshop 10days\IntroTOC#\ArraysC#\bin\Debug\net6.0\ArraysC#.pdb
+H:\C#Workshop 10days\IntroTOC#\ArraysC#\obj\Debug\net6.0\ArraysC#.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#Workshop 10days\IntroTOC#\ArraysC#\obj\Debug\net6.0\ArraysC#.AssemblyInfoInputs.cache
+H:\C#Workshop 10days\IntroTOC#\ArraysC#\obj\Debug\net6.0\ArraysC#.AssemblyInfo.cs
+H:\C#Workshop 10days\IntroTOC#\ArraysC#\obj\Debug\net6.0\ArraysC#.csproj.CoreCompileInputs.cache
+H:\C#Workshop 10days\IntroTOC#\ArraysC#\obj\Debug\net6.0\ArraysC#.dll
+H:\C#Workshop 10days\IntroTOC#\ArraysC#\obj\Debug\net6.0\refint\ArraysC#.dll
+H:\C#Workshop 10days\IntroTOC#\ArraysC#\obj\Debug\net6.0\ArraysC#.pdb
+H:\C#Workshop 10days\IntroTOC#\ArraysC#\obj\Debug\net6.0\ArraysC#.genruntimeconfig.cache
+H:\C#Workshop 10days\IntroTOC#\ArraysC#\obj\Debug\net6.0\ref\ArraysC#.dll

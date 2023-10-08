@@ -1,0 +1,14 @@
+H:\C#Workshop 10days\IntroTOC#\AssignmentOperator\bin\Debug\net6.0\AssignmentOperator.exe
+H:\C#Workshop 10days\IntroTOC#\AssignmentOperator\bin\Debug\net6.0\AssignmentOperator.deps.json
+H:\C#Workshop 10days\IntroTOC#\AssignmentOperator\bin\Debug\net6.0\AssignmentOperator.runtimeconfig.json
+H:\C#Workshop 10days\IntroTOC#\AssignmentOperator\bin\Debug\net6.0\AssignmentOperator.dll
+H:\C#Workshop 10days\IntroTOC#\AssignmentOperator\bin\Debug\net6.0\AssignmentOperator.pdb
+H:\C#Workshop 10days\IntroTOC#\AssignmentOperator\obj\Debug\net6.0\AssignmentOperator.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#Workshop 10days\IntroTOC#\AssignmentOperator\obj\Debug\net6.0\AssignmentOperator.AssemblyInfoInputs.cache
+H:\C#Workshop 10days\IntroTOC#\AssignmentOperator\obj\Debug\net6.0\AssignmentOperator.AssemblyInfo.cs
+H:\C#Workshop 10days\IntroTOC#\AssignmentOperator\obj\Debug\net6.0\AssignmentOperator.csproj.CoreCompileInputs.cache
+H:\C#Workshop 10days\IntroTOC#\AssignmentOperator\obj\Debug\net6.0\AssignmentOperator.dll
+H:\C#Workshop 10days\IntroTOC#\AssignmentOperator\obj\Debug\net6.0\refint\AssignmentOperator.dll
+H:\C#Workshop 10days\IntroTOC#\AssignmentOperator\obj\Debug\net6.0\AssignmentOperator.pdb
+H:\C#Workshop 10days\IntroTOC#\AssignmentOperator\obj\Debug\net6.0\AssignmentOperator.genruntimeconfig.cache
+H:\C#Workshop 10days\IntroTOC#\AssignmentOperator\obj\Debug\net6.0\ref\AssignmentOperator.dll

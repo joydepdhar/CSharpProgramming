@@ -1,0 +1,14 @@
+H:\C#Workshop 10days\IntroTOC#\DataTypeConversion\bin\Debug\net6.0\DataTypeConversion.exe
+H:\C#Workshop 10days\IntroTOC#\DataTypeConversion\bin\Debug\net6.0\DataTypeConversion.deps.json
+H:\C#Workshop 10days\IntroTOC#\DataTypeConversion\bin\Debug\net6.0\DataTypeConversion.runtimeconfig.json
+H:\C#Workshop 10days\IntroTOC#\DataTypeConversion\bin\Debug\net6.0\DataTypeConversion.dll
+H:\C#Workshop 10days\IntroTOC#\DataTypeConversion\bin\Debug\net6.0\DataTypeConversion.pdb
+H:\C#Workshop 10days\IntroTOC#\DataTypeConversion\obj\Debug\net6.0\DataTypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#Workshop 10days\IntroTOC#\DataTypeConversion\obj\Debug\net6.0\DataTypeConversion.AssemblyInfoInputs.cache
+H:\C#Workshop 10days\IntroTOC#\DataTypeConversion\obj\Debug\net6.0\DataTypeConversion.AssemblyInfo.cs
+H:\C#Workshop 10days\IntroTOC#\DataTypeConversion\obj\Debug\net6.0\DataTypeConversion.csproj.CoreCompileInputs.cache
+H:\C#Workshop 10days\IntroTOC#\DataTypeConversion\obj\Debug\net6.0\DataTypeConversion.dll
+H:\C#Workshop 10days\IntroTOC#\DataTypeConversion\obj\Debug\net6.0\refint\DataTypeConversion.dll
+H:\C#Workshop 10days\IntroTOC#\DataTypeConversion\obj\Debug\net6.0\DataTypeConversion.pdb
+H:\C#Workshop 10days\IntroTOC#\DataTypeConversion\obj\Debug\net6.0\DataTypeConversion.genruntimeconfig.cache
+H:\C#Workshop 10days\IntroTOC#\DataTypeConversion\obj\Debug\net6.0\ref\DataTypeConversion.dll

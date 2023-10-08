@@ -1,0 +1,14 @@
+H:\C#Workshop 10days\IntroTOC#\BuiltinType\bin\Debug\net6.0\BuiltinType.exe
+H:\C#Workshop 10days\IntroTOC#\BuiltinType\bin\Debug\net6.0\BuiltinType.deps.json
+H:\C#Workshop 10days\IntroTOC#\BuiltinType\bin\Debug\net6.0\BuiltinType.runtimeconfig.json
+H:\C#Workshop 10days\IntroTOC#\BuiltinType\bin\Debug\net6.0\BuiltinType.dll
+H:\C#Workshop 10days\IntroTOC#\BuiltinType\bin\Debug\net6.0\BuiltinType.pdb
+H:\C#Workshop 10days\IntroTOC#\BuiltinType\obj\Debug\net6.0\BuiltinType.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#Workshop 10days\IntroTOC#\BuiltinType\obj\Debug\net6.0\BuiltinType.AssemblyInfoInputs.cache
+H:\C#Workshop 10days\IntroTOC#\BuiltinType\obj\Debug\net6.0\BuiltinType.AssemblyInfo.cs
+H:\C#Workshop 10days\IntroTOC#\BuiltinType\obj\Debug\net6.0\BuiltinType.csproj.CoreCompileInputs.cache
+H:\C#Workshop 10days\IntroTOC#\BuiltinType\obj\Debug\net6.0\BuiltinType.dll
+H:\C#Workshop 10days\IntroTOC#\BuiltinType\obj\Debug\net6.0\refint\BuiltinType.dll
+H:\C#Workshop 10days\IntroTOC#\BuiltinType\obj\Debug\net6.0\BuiltinType.pdb
+H:\C#Workshop 10days\IntroTOC#\BuiltinType\obj\Debug\net6.0\BuiltinType.genruntimeconfig.cache
+H:\C#Workshop 10days\IntroTOC#\BuiltinType\obj\Debug\net6.0\ref\BuiltinType.dll

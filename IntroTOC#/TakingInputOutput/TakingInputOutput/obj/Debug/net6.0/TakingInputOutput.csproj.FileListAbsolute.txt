@@ -1,0 +1,14 @@
+H:\C#Workshop 10days\IntroTOC#\TakingInputOutput\TakingInputOutput\bin\Debug\net6.0\TakingInputOutput.exe
+H:\C#Workshop 10days\IntroTOC#\TakingInputOutput\TakingInputOutput\bin\Debug\net6.0\TakingInputOutput.deps.json
+H:\C#Workshop 10days\IntroTOC#\TakingInputOutput\TakingInputOutput\bin\Debug\net6.0\TakingInputOutput.runtimeconfig.json
+H:\C#Workshop 10days\IntroTOC#\TakingInputOutput\TakingInputOutput\bin\Debug\net6.0\TakingInputOutput.dll
+H:\C#Workshop 10days\IntroTOC#\TakingInputOutput\TakingInputOutput\bin\Debug\net6.0\TakingInputOutput.pdb
+H:\C#Workshop 10days\IntroTOC#\TakingInputOutput\TakingInputOutput\obj\Debug\net6.0\TakingInputOutput.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#Workshop 10days\IntroTOC#\TakingInputOutput\TakingInputOutput\obj\Debug\net6.0\TakingInputOutput.AssemblyInfoInputs.cache
+H:\C#Workshop 10days\IntroTOC#\TakingInputOutput\TakingInputOutput\obj\Debug\net6.0\TakingInputOutput.AssemblyInfo.cs
+H:\C#Workshop 10days\IntroTOC#\TakingInputOutput\TakingInputOutput\obj\Debug\net6.0\TakingInputOutput.csproj.CoreCompileInputs.cache
+H:\C#Workshop 10days\IntroTOC#\TakingInputOutput\TakingInputOutput\obj\Debug\net6.0\TakingInputOutput.dll
+H:\C#Workshop 10days\IntroTOC#\TakingInputOutput\TakingInputOutput\obj\Debug\net6.0\refint\TakingInputOutput.dll
+H:\C#Workshop 10days\IntroTOC#\TakingInputOutput\TakingInputOutput\obj\Debug\net6.0\TakingInputOutput.pdb
+H:\C#Workshop 10days\IntroTOC#\TakingInputOutput\TakingInputOutput\obj\Debug\net6.0\TakingInputOutput.genruntimeconfig.cache
+H:\C#Workshop 10days\IntroTOC#\TakingInputOutput\TakingInputOutput\obj\Debug\net6.0\ref\TakingInputOutput.dll
