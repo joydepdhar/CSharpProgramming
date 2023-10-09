@@ -1,0 +1,14 @@
+H:\CSharpProgramming\IntroTOC#\Methods\bin\Debug\net6.0\Methods.exe
+H:\CSharpProgramming\IntroTOC#\Methods\bin\Debug\net6.0\Methods.deps.json
+H:\CSharpProgramming\IntroTOC#\Methods\bin\Debug\net6.0\Methods.runtimeconfig.json
+H:\CSharpProgramming\IntroTOC#\Methods\bin\Debug\net6.0\Methods.dll
+H:\CSharpProgramming\IntroTOC#\Methods\bin\Debug\net6.0\Methods.pdb
+H:\CSharpProgramming\IntroTOC#\Methods\obj\Debug\net6.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+H:\CSharpProgramming\IntroTOC#\Methods\obj\Debug\net6.0\Methods.AssemblyInfoInputs.cache
+H:\CSharpProgramming\IntroTOC#\Methods\obj\Debug\net6.0\Methods.AssemblyInfo.cs
+H:\CSharpProgramming\IntroTOC#\Methods\obj\Debug\net6.0\Methods.csproj.CoreCompileInputs.cache
+H:\CSharpProgramming\IntroTOC#\Methods\obj\Debug\net6.0\Methods.dll
+H:\CSharpProgramming\IntroTOC#\Methods\obj\Debug\net6.0\refint\Methods.dll
+H:\CSharpProgramming\IntroTOC#\Methods\obj\Debug\net6.0\Methods.pdb
+H:\CSharpProgramming\IntroTOC#\Methods\obj\Debug\net6.0\Methods.genruntimeconfig.cache
+H:\CSharpProgramming\IntroTOC#\Methods\obj\Debug\net6.0\ref\Methods.dll
