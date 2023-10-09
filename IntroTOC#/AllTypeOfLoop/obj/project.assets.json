@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\CSharpProgramming\\IntroTOC#\\IfAndSwitch\\IfAndSwitch.csproj",
-      "projectName": "IfAndSwitch",
-      "projectPath": "H:\\CSharpProgramming\\IntroTOC#\\IfAndSwitch\\IfAndSwitch.csproj",
+      "projectUniqueName": "H:\\CSharpProgramming\\IntroTOC#\\AllTypeOfLoop\\AllTypeOfLoop.csproj",
+      "projectName": "AllTypeOfLoop",
+      "projectPath": "H:\\CSharpProgramming\\IntroTOC#\\AllTypeOfLoop\\AllTypeOfLoop.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "H:\\CSharpProgramming\\IntroTOC#\\IfAndSwitch\\obj\\",
+      "outputPath": "H:\\CSharpProgramming\\IntroTOC#\\AllTypeOfLoop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

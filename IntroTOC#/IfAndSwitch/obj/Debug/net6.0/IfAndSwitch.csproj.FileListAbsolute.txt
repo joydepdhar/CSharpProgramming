@@ -12,3 +12,17 @@ H:\C#Workshop 10days\IntroTOC#\IfAndSwitch\obj\Debug\net6.0\refint\IfAndSwitch.d
 H:\C#Workshop 10days\IntroTOC#\IfAndSwitch\obj\Debug\net6.0\IfAndSwitch.pdb
 H:\C#Workshop 10days\IntroTOC#\IfAndSwitch\obj\Debug\net6.0\IfAndSwitch.genruntimeconfig.cache
 H:\C#Workshop 10days\IntroTOC#\IfAndSwitch\obj\Debug\net6.0\ref\IfAndSwitch.dll
+H:\CSharpProgramming\IntroTOC#\IfAndSwitch\bin\Debug\net6.0\IfAndSwitch.exe
+H:\CSharpProgramming\IntroTOC#\IfAndSwitch\bin\Debug\net6.0\IfAndSwitch.deps.json
+H:\CSharpProgramming\IntroTOC#\IfAndSwitch\bin\Debug\net6.0\IfAndSwitch.runtimeconfig.json
+H:\CSharpProgramming\IntroTOC#\IfAndSwitch\bin\Debug\net6.0\IfAndSwitch.dll
+H:\CSharpProgramming\IntroTOC#\IfAndSwitch\bin\Debug\net6.0\IfAndSwitch.pdb
+H:\CSharpProgramming\IntroTOC#\IfAndSwitch\obj\Debug\net6.0\IfAndSwitch.GeneratedMSBuildEditorConfig.editorconfig
+H:\CSharpProgramming\IntroTOC#\IfAndSwitch\obj\Debug\net6.0\IfAndSwitch.AssemblyInfoInputs.cache
+H:\CSharpProgramming\IntroTOC#\IfAndSwitch\obj\Debug\net6.0\IfAndSwitch.AssemblyInfo.cs
+H:\CSharpProgramming\IntroTOC#\IfAndSwitch\obj\Debug\net6.0\IfAndSwitch.csproj.CoreCompileInputs.cache
+H:\CSharpProgramming\IntroTOC#\IfAndSwitch\obj\Debug\net6.0\IfAndSwitch.dll
+H:\CSharpProgramming\IntroTOC#\IfAndSwitch\obj\Debug\net6.0\refint\IfAndSwitch.dll
+H:\CSharpProgramming\IntroTOC#\IfAndSwitch\obj\Debug\net6.0\IfAndSwitch.pdb
+H:\CSharpProgramming\IntroTOC#\IfAndSwitch\obj\Debug\net6.0\IfAndSwitch.genruntimeconfig.cache
+H:\CSharpProgramming\IntroTOC#\IfAndSwitch\obj\Debug\net6.0\ref\IfAndSwitch.dll

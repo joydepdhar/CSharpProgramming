@@ -1,0 +1,14 @@
+H:\CSharpProgramming\IntroTOC#\AllTypeOfLoop\bin\Debug\net6.0\AllTypeOfLoop.exe
+H:\CSharpProgramming\IntroTOC#\AllTypeOfLoop\bin\Debug\net6.0\AllTypeOfLoop.deps.json
+H:\CSharpProgramming\IntroTOC#\AllTypeOfLoop\bin\Debug\net6.0\AllTypeOfLoop.runtimeconfig.json
+H:\CSharpProgramming\IntroTOC#\AllTypeOfLoop\bin\Debug\net6.0\AllTypeOfLoop.dll
+H:\CSharpProgramming\IntroTOC#\AllTypeOfLoop\bin\Debug\net6.0\AllTypeOfLoop.pdb
+H:\CSharpProgramming\IntroTOC#\AllTypeOfLoop\obj\Debug\net6.0\AllTypeOfLoop.GeneratedMSBuildEditorConfig.editorconfig
+H:\CSharpProgramming\IntroTOC#\AllTypeOfLoop\obj\Debug\net6.0\AllTypeOfLoop.AssemblyInfoInputs.cache
+H:\CSharpProgramming\IntroTOC#\AllTypeOfLoop\obj\Debug\net6.0\AllTypeOfLoop.AssemblyInfo.cs
+H:\CSharpProgramming\IntroTOC#\AllTypeOfLoop\obj\Debug\net6.0\AllTypeOfLoop.csproj.CoreCompileInputs.cache
+H:\CSharpProgramming\IntroTOC#\AllTypeOfLoop\obj\Debug\net6.0\AllTypeOfLoop.dll
+H:\CSharpProgramming\IntroTOC#\AllTypeOfLoop\obj\Debug\net6.0\refint\AllTypeOfLoop.dll
+H:\CSharpProgramming\IntroTOC#\AllTypeOfLoop\obj\Debug\net6.0\AllTypeOfLoop.pdb
+H:\CSharpProgramming\IntroTOC#\AllTypeOfLoop\obj\Debug\net6.0\AllTypeOfLoop.genruntimeconfig.cache
+H:\CSharpProgramming\IntroTOC#\AllTypeOfLoop\obj\Debug\net6.0\ref\AllTypeOfLoop.dll
