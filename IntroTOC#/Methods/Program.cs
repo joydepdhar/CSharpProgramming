@@ -24,14 +24,26 @@ namespace MyApp // Note: actual namespace depends on the project name.
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // this is static method
+            //Console.WriteLine("Hello World!");
             Program p = new Program();//method  invoke
-            p.EvenNumber();
+            //p.EvenNumber();
+            Program.EvenNumber(30);
+            
+            int k =p.add(10,50);
+            Console.WriteLine("Sum: {0}", k);
         }
-        public void EvenNumber()
+         public int add(int x, int y)
         {
+            return x + y;
+
+        }
+        //public  static void EvenNumber()
+        public  static void EvenNumber(int x)
+        {
+            //instant method
             int start = 0;
-            while (start <= 20)
+            while (start <= x)
             {
                 Console.WriteLine(start);
                 start = start + 2;
