@@ -1,0 +1,14 @@
+H:\CSharpProgramming\IntroTOC#\InheriatanceSolve\bin\Debug\net6.0\InheriatanceSolve.exe
+H:\CSharpProgramming\IntroTOC#\InheriatanceSolve\bin\Debug\net6.0\InheriatanceSolve.deps.json
+H:\CSharpProgramming\IntroTOC#\InheriatanceSolve\bin\Debug\net6.0\InheriatanceSolve.runtimeconfig.json
+H:\CSharpProgramming\IntroTOC#\InheriatanceSolve\bin\Debug\net6.0\InheriatanceSolve.dll
+H:\CSharpProgramming\IntroTOC#\InheriatanceSolve\bin\Debug\net6.0\InheriatanceSolve.pdb
+H:\CSharpProgramming\IntroTOC#\InheriatanceSolve\obj\Debug\net6.0\InheriatanceSolve.GeneratedMSBuildEditorConfig.editorconfig
+H:\CSharpProgramming\IntroTOC#\InheriatanceSolve\obj\Debug\net6.0\InheriatanceSolve.AssemblyInfoInputs.cache
+H:\CSharpProgramming\IntroTOC#\InheriatanceSolve\obj\Debug\net6.0\InheriatanceSolve.AssemblyInfo.cs
+H:\CSharpProgramming\IntroTOC#\InheriatanceSolve\obj\Debug\net6.0\InheriatanceSolve.csproj.CoreCompileInputs.cache
+H:\CSharpProgramming\IntroTOC#\InheriatanceSolve\obj\Debug\net6.0\InheriatanceSolve.dll
+H:\CSharpProgramming\IntroTOC#\InheriatanceSolve\obj\Debug\net6.0\refint\InheriatanceSolve.dll
+H:\CSharpProgramming\IntroTOC#\InheriatanceSolve\obj\Debug\net6.0\InheriatanceSolve.pdb
+H:\CSharpProgramming\IntroTOC#\InheriatanceSolve\obj\Debug\net6.0\InheriatanceSolve.genruntimeconfig.cache
+H:\CSharpProgramming\IntroTOC#\InheriatanceSolve\obj\Debug\net6.0\ref\InheriatanceSolve.dll
