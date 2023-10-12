@@ -1,0 +1,14 @@
+H:\CSharpProgramming\IntroTOC#\PathToClasses\bin\Debug\net6.0\PathToClasses.exe
+H:\CSharpProgramming\IntroTOC#\PathToClasses\bin\Debug\net6.0\PathToClasses.deps.json
+H:\CSharpProgramming\IntroTOC#\PathToClasses\bin\Debug\net6.0\PathToClasses.runtimeconfig.json
+H:\CSharpProgramming\IntroTOC#\PathToClasses\bin\Debug\net6.0\PathToClasses.dll
+H:\CSharpProgramming\IntroTOC#\PathToClasses\bin\Debug\net6.0\PathToClasses.pdb
+H:\CSharpProgramming\IntroTOC#\PathToClasses\obj\Debug\net6.0\PathToClasses.GeneratedMSBuildEditorConfig.editorconfig
+H:\CSharpProgramming\IntroTOC#\PathToClasses\obj\Debug\net6.0\PathToClasses.AssemblyInfoInputs.cache
+H:\CSharpProgramming\IntroTOC#\PathToClasses\obj\Debug\net6.0\PathToClasses.AssemblyInfo.cs
+H:\CSharpProgramming\IntroTOC#\PathToClasses\obj\Debug\net6.0\PathToClasses.csproj.CoreCompileInputs.cache
+H:\CSharpProgramming\IntroTOC#\PathToClasses\obj\Debug\net6.0\PathToClasses.dll
+H:\CSharpProgramming\IntroTOC#\PathToClasses\obj\Debug\net6.0\refint\PathToClasses.dll
+H:\CSharpProgramming\IntroTOC#\PathToClasses\obj\Debug\net6.0\PathToClasses.pdb
+H:\CSharpProgramming\IntroTOC#\PathToClasses\obj\Debug\net6.0\PathToClasses.genruntimeconfig.cache
+H:\CSharpProgramming\IntroTOC#\PathToClasses\obj\Debug\net6.0\ref\PathToClasses.dll

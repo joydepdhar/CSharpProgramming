@@ -1,0 +1,14 @@
+H:\CSharpProgramming\IntroTOC#\StaticAndInstanceClassMembers\bin\Debug\net6.0\StaticAndInstanceClassMembers.exe
+H:\CSharpProgramming\IntroTOC#\StaticAndInstanceClassMembers\bin\Debug\net6.0\StaticAndInstanceClassMembers.deps.json
+H:\CSharpProgramming\IntroTOC#\StaticAndInstanceClassMembers\bin\Debug\net6.0\StaticAndInstanceClassMembers.runtimeconfig.json
+H:\CSharpProgramming\IntroTOC#\StaticAndInstanceClassMembers\bin\Debug\net6.0\StaticAndInstanceClassMembers.dll
+H:\CSharpProgramming\IntroTOC#\StaticAndInstanceClassMembers\bin\Debug\net6.0\StaticAndInstanceClassMembers.pdb
+H:\CSharpProgramming\IntroTOC#\StaticAndInstanceClassMembers\obj\Debug\net6.0\StaticAndInstanceClassMembers.GeneratedMSBuildEditorConfig.editorconfig
+H:\CSharpProgramming\IntroTOC#\StaticAndInstanceClassMembers\obj\Debug\net6.0\StaticAndInstanceClassMembers.AssemblyInfoInputs.cache
+H:\CSharpProgramming\IntroTOC#\StaticAndInstanceClassMembers\obj\Debug\net6.0\StaticAndInstanceClassMembers.AssemblyInfo.cs
+H:\CSharpProgramming\IntroTOC#\StaticAndInstanceClassMembers\obj\Debug\net6.0\StaticAndInstanceClassMembers.csproj.CoreCompileInputs.cache
+H:\CSharpProgramming\IntroTOC#\StaticAndInstanceClassMembers\obj\Debug\net6.0\StaticAndInstanceClassMembers.dll
+H:\CSharpProgramming\IntroTOC#\StaticAndInstanceClassMembers\obj\Debug\net6.0\refint\StaticAndInstanceClassMembers.dll
+H:\CSharpProgramming\IntroTOC#\StaticAndInstanceClassMembers\obj\Debug\net6.0\StaticAndInstanceClassMembers.pdb
+H:\CSharpProgramming\IntroTOC#\StaticAndInstanceClassMembers\obj\Debug\net6.0\StaticAndInstanceClassMembers.genruntimeconfig.cache
+H:\CSharpProgramming\IntroTOC#\StaticAndInstanceClassMembers\obj\Debug\net6.0\ref\StaticAndInstanceClassMembers.dll
